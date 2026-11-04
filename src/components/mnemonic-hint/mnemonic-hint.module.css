@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.word {
+  color: var(--color-text);
+}
+
+.armenian {
+  font-family: var(--font-armenian);
+  font-weight: 600;
+}
+
+.shape {
+  color: var(--color-muted);
+  font-size: 14px;
+}

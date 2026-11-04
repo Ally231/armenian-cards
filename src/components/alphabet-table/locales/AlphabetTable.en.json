@@ -1,0 +1,10 @@
+{
+  "colUpper": "Uppercase",
+  "colLower": "Lowercase",
+  "colName": "Name",
+  "colSound": "Sound",
+  "colMnemonic": "Association",
+  "colBox": "Level",
+  "colAudio": "Audio",
+  "colDetail": "Show column"
+}

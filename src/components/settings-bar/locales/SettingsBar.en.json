@@ -1,0 +1,9 @@
+{
+  "language": "Language",
+  "script": "Transliteration",
+  "scriptLatin": "Latin",
+  "scriptCyrillic": "Cyrillic",
+  "letterCase": "Letter case",
+  "caseUpper": "Uppercase",
+  "caseLower": "Lowercase"
+}

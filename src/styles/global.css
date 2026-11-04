@@ -1,0 +1,34 @@
+:root {
+  --color-bg: #faf6f0;
+  --color-surface: #ffffff;
+  --color-text: #2a2118;
+  --color-muted: #7a6b5a;
+  --color-accent: #c2410c;
+  --color-accent-contrast: #ffffff;
+  --color-good: #15803d;
+  --color-bad: #b91c1c;
+  --color-border: #e5dccf;
+  --radius: 12px;
+  --font-armenian: "Noto Sans Armenian", "Sylfaen", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    sans-serif;
+  line-height: 1.5;
+}
+
+button,
+select {
+  font: inherit;
+}

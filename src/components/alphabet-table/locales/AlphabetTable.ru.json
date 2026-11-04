@@ -1,0 +1,10 @@
+{
+  "colUpper": "Заглавная",
+  "colLower": "Строчная",
+  "colName": "Название",
+  "colSound": "Звук",
+  "colMnemonic": "Ассоциация",
+  "colBox": "Уровень",
+  "colAudio": "Озвучка",
+  "colDetail": "Показать столбец"
+}

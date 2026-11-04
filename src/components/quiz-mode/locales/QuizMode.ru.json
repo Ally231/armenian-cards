@@ -1,0 +1,10 @@
+{
+  "quizDirection": "Режим",
+  "quizToTranslit": "Буква → звук",
+  "quizToLetter": "Звук → буква",
+  "quizWhichSound": "Какой это звук?",
+  "quizWhichLetter": "Какая это буква?",
+  "correct": "Верно!",
+  "wrong": "Неверно. Правильный ответ: {{answer}}",
+  "next": "Дальше"
+}

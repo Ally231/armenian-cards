@@ -1,0 +1,10 @@
+{
+  "quizDirection": "Mode",
+  "quizToTranslit": "Letter → sound",
+  "quizToLetter": "Sound → letter",
+  "quizWhichSound": "Which sound is it?",
+  "quizWhichLetter": "Which letter is it?",
+  "correct": "Correct!",
+  "wrong": "Wrong. The right answer: {{answer}}",
+  "next": "Next"
+}

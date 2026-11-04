@@ -1,0 +1,12 @@
+.header {
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+}
+
+.subtitle {
+  margin: 4px 0;
+  color: var(--color-muted);
+}

@@ -1,0 +1,9 @@
+{
+  "language": "Язык",
+  "script": "Транслитерация",
+  "scriptLatin": "Латиница",
+  "scriptCyrillic": "Кириллица",
+  "letterCase": "Регистр",
+  "caseUpper": "Заглавные",
+  "caseLower": "Строчные"
+}
